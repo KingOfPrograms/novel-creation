@@ -66,14 +66,14 @@
     ],
     "position": {
       "scene": "江州大学教室与走廊",
-      "story_time": "新生晚会次日白天",
+      "story_time": "迎新晚会次日白天",
       "volume": "第一卷·觉醒",
       "volume_start_chapter": 1
     },
     "recent_chapters": [
       {
         "chapter": 1,
-        "summary": "林川在新生晚会社死瞬间觉醒读心，被动听见全场心声，无法关闭"
+        "summary": "林川在迎新晚会社死瞬间觉醒读心，被动听见全场心声，无法关闭"
       },
       {
         "chapter": 2,
@@ -112,7 +112,7 @@
       "reader_knowledge": "林川能听见别人心里话，且似乎不是幻觉；那晚还有一句不属于在场任何人的话",
       "reveal_chapter": null,
       "reveal_status": "未揭示",
-      "story_time": "新生晚会当夜",
+      "story_time": "迎新晚会当夜",
       "updated_chapter": 1
     }
   },
