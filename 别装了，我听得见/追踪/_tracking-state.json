@@ -19,25 +19,29 @@
       "abilities_resources": [
         "读心第1层：被动听表层心声，范围约10米，无法过滤，副作用头疼耳鸣失眠"
       ],
-      "goal": "弄明白读心能力来源，并弄清楚苏念为什么读不到",
+      "goal": "先学会过滤噪音，再弄清苏念为什么读不到",
       "identity": "江州大学大一新生，普通透明人",
       "knowledge": [
         "能听见心声，会用「观察」当借口糊弄过去",
         "耳机挡不住心里话，心声不经过耳朵直接进脑子",
         "读心强度与情绪/专注度相关：越紧张越清晰、越放松越模糊",
-        "读心对苏念无效，她是唯一盲区"
+        "读心对苏念无效，她是唯一盲区",
+        "读心能用在帮人上，关键时刻能护住身边的人",
+        "读心能设局抓破绽、找真相（进阶用法）",
+        "觉醒那晚的异样声音不属于现场任何人，觉醒可能并非偶然",
+        "三件事（关不掉/读不到苏念/觉醒非偶然）都指向读心没那么简单"
       ],
-      "location": "教室（下课未走）",
+      "location": "学生宿舍（窗前）",
       "open_threads": [
         "读心能力来源未明（为何觉醒、为何是自己）",
-        "那晚异样声音「果然来了」未解",
+        "那晚异样声音「果然来了」来源未解",
         "苏念为何读不到心声（未解）"
       ],
       "relationships": [
-        "高博=室友，损友，欠了他人情",
+        "高博=室友，视林川为亲哥，欠人情",
         "苏念=同班同学，唯一读不到的人，产生好奇"
       ],
-      "state": "发现苏念是读心唯一盲区，产生读心以外的强烈好奇"
+      "state": "梳理三件事定下两个目标，从被动挨听转为主动掌控"
     },
     "苏念": {
       "abilities_resources": [
@@ -59,17 +63,17 @@
     },
     "高博": {
       "abilities_resources": [],
-      "goal": "弄清楚林川怎么知道自己在吹牛",
+      "goal": "跟着林川混，把他当亲哥",
       "identity": "林川室友，爱吹牛、脸皮厚",
       "knowledge": [
-        "怀疑林川能听见心声，但没实锤"
+        "怀疑林川能听见心声，但没实锤；觉得林川观察力惊人"
       ],
-      "location": "教室",
+      "location": "校园（回宿舍路上）",
       "open_threads": [],
       "relationships": [
-        "林川=室友，损友，欠他一个人情"
+        "林川=室友，亲哥式信任"
       ],
-      "state": "吹牛被林川救下，对林川起疑，觉得他「邪门」"
+      "state": "躲过兼职骗局，对林川佩服感激，视其为亲哥"
     }
   },
   "context": {
@@ -86,29 +90,40 @@
       "读心能力不暴露给公众与无关机构",
       "轻松基调，不写沉重血腥死亡阴影"
     ],
-    "next_chapter_commitments": [],
+    "next_chapter_commitments": [
+      "下一单元（L1-02）林川将主动接近苏念、尝试读懂她"
+    ],
     "position": {
-      "scene": "教室",
-      "story_time": "迎新晚会后第四天（大课下课）",
+      "scene": "学生宿舍",
+      "story_time": "迎新晚会后第七天（上午）",
       "volume": "第一卷·觉醒",
       "volume_start_chapter": 1
     },
     "recent_chapters": [
       {
-        "chapter": 4,
-        "summary": "林川尝到甜头后频繁用读心，副作用加重（头疼、失眠、人多烦躁）；试耳机隔绝失败，确认心声不经过耳朵；认清能力有代价、不可控，决定必须先学会关掉它。"
+        "chapter": 8,
+        "summary": "林川被孙磊诬陷偷耳机，用读心听见真相后设局连环追问、以监控诈出真凶，当众澄清；班里名声立起（不好惹、靠谱），并开始不安于能力来源。"
       },
       {
-        "chapter": 5,
-        "summary": "林川尝试戴耳机、转移注意力、躲人、数数、掐自己等办法全部失败；摸到「情绪越强听得越清」的规律，但「想关掉」本身就是在意，陷入死循环；最终转为先适应，并决心弄清能力的来源。"
+        "chapter": 9,
+        "summary": "林川深夜复盘觉醒那晚，确认那句异样声音「果然，来了」不是幻觉、不属于现场任何人；第一次对觉醒本身起疑，怀疑觉醒并非偶然。"
       },
       {
-        "chapter": 6,
-        "summary": "林川上课发现全班只有苏念读不到心声，反复试探均失败，确认能力有盲区；对苏念产生读心以外的强烈好奇，情感线起点确立。"
+        "chapter": 10,
+        "summary": "林川把三件事（读心关不掉、读不到苏念、觉醒非偶然）串起来，意识到读心没那么简单，决定不再被动挨听；定下两个目标：先学会过滤噪音、再弄清苏念为什么读不到。"
       }
     ]
   },
   "foreshadow": {
+    "F001": {
+      "id": "F001",
+      "importance": "高",
+      "planned_resolution_chapter": null,
+      "planted_chapter": 9,
+      "status": "已埋",
+      "summary": "林川的读心觉醒并非偶然，那晚现场存在一个不属于任何人的声音，背后可能有人推动",
+      "updated_chapter": 9
+    },
     "F002": {
       "id": "F002",
       "importance": "高",
@@ -129,9 +144,9 @@
     }
   },
   "imported_through_chapter": 0,
-  "last_committed_chapter": 6,
+  "last_committed_chapter": 10,
   "schema_version": 4,
-  "state_revision": 6,
+  "state_revision": 10,
   "timeline": {
     "E001": {
       "characters": [
@@ -171,6 +186,14 @@
       "status": "borderline",
       "target": 2500
     },
+    "10": {
+      "actual": 2222,
+      "body_sha256": "4da802d5082acfbf16385e2f6dfd4e54e33fa5d990db9baaa2f03a507288ce21",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "internal_pass",
+      "target": 2500
+    },
     "2": {
       "actual": 2147,
       "body_sha256": "b6abff25265181f1d363d01fc3d221e01a870a4b059e8eed4f7ca209195ce08b",
@@ -206,6 +229,30 @@
     "6": {
       "actual": 2205,
       "body_sha256": "004ee7cf747b4f3889cb1c3df931102d4be65c2ff506bc2320c957d6757685a9",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "internal_pass",
+      "target": 2500
+    },
+    "7": {
+      "actual": 2203,
+      "body_sha256": "424bf0ec55b9eb1a1da11f6c76d9a3e8dbc607fd7a7a67466ca1e2eac655e6fc",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "internal_pass",
+      "target": 2500
+    },
+    "8": {
+      "actual": 2227,
+      "body_sha256": "441d8a027501efc13655b00b63ffbe96e26c163e8a4f403c193d8b4a6ea28cc9",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "internal_pass",
+      "target": 2500
+    },
+    "9": {
+      "actual": 2216,
+      "body_sha256": "32299fda6ac07ccaa7477ceda52e6c67dc9dfef5a7ed875b1b8fc8a96195cabd",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "internal_pass",
