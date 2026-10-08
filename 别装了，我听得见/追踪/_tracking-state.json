@@ -19,7 +19,7 @@
       "abilities_resources": [
         "读心第1层：被动听表层心声，范围约10米，无法过滤，副作用头疼耳鸣失眠"
       ],
-      "goal": "先学会过滤噪音，再弄清苏念为什么读不到",
+      "goal": "靠自己慢慢认识苏念（不用读心），同时弄懂读心来源和苏念的秘密",
       "identity": "江州大学大一新生，普通透明人",
       "knowledge": [
         "能听见心声，会用「观察」当借口糊弄过去",
@@ -30,19 +30,31 @@
         "读心能设局抓破绽、找真相（进阶用法）",
         "觉醒那晚的异样声音不属于现场任何人，觉醒可能并非偶然",
         "三件事（关不掉/读不到苏念/觉醒非偶然）都指向读心没那么简单",
-        "没有心声可参考时，投其所好失效，自己连聊天都不会"
+        "读心社交套路（读心声→投其所好→拉近）对苏念全废，盲聊踩不到点，暴露读心依赖的短板",
+        "别人眼里的苏念是刻板标签（高冷/孤僻/清高/怪），没人真正靠近过她，决定靠自己慢慢懂她",
+        "意识到自己对苏念的在意已超出好奇，是在意她这个人本身",
+        "不靠读心、认真听也能了解一个人（苏念做事较真、说话不绕弯、听人时眼神认真）",
+        "没了读心提示，自己连正常接话都不会，过去的会聊天全靠读心兜底",
+        "过去的会来事/看人准全靠读心偷看答案，没练过真本事",
+        "只听表层心声就下结论是过度自信，容易误判（曾误解议论苏念的女生、抱怨作业的同学）",
+        "决定戒掉读心小抄，从苏念开始靠自己慢慢来",
+        "想通人不止心声一个了解途径，读心只是捷径之一，真实相处才能了解一个人",
+        "靠观察记住苏念的习惯（坐靠过道第三位、看小说、两点半到三点来图书馆、靠窗角落、在找一本淡绿色短篇小说集）",
+        "靠自己攒下的了解，比读心给的答案更重",
+        "不靠读心也能读懂苏念的靠近（读不到心声却看清了她朝他挪）",
+        "苏念对读心术话题异样敏感、能察觉被注视，读不到她或许不是巧合而是她藏着秘密"
       ],
-      "location": "宿舍",
+      "location": "女生宿舍楼下",
       "open_threads": [
         "读心能力来源未明（为何觉醒、为何是自己）",
         "那晚异样声音「果然来了」来源未解",
-        "苏念为何读不到心声（未解）"
+        "苏念为何读不到心声、她藏着什么秘密（未解，长线钩子）"
       ],
       "relationships": [
         "高博=室友，视林川为亲哥，欠人情",
-        "苏念=同班同学，小组作业搭档，已加微信，读不到且难接近"
+        "苏念=同班同学，小组作业搭档，已加微信，关系升温中；觉得她藏着秘密，更想懂她"
       ],
-      "state": "系统验证读心对苏念彻底失效，确认她是唯一盲区，越发好奇想弄懂她"
+      "state": "撞见苏念对读心话题异样敏感，把读不到与她藏着秘密连起来，按下不表决定慢慢看"
     },
     "苏念": {
       "abilities_resources": [
@@ -53,28 +65,31 @@
       "knowledge": [
         "不知道林川能读心"
       ],
-      "location": "已离开教室（下课走了）",
+      "location": "图书馆（林川对面）",
       "open_threads": [
         "读不到她心声的原因（长线钩子）"
       ],
       "relationships": [
-        "林川=同班同学，小组作业搭档，已加微信"
+        "林川=同班同学，小组作业搭档，已加微信，关系升温；对他有了一丝不同，会主动靠近"
       ],
-      "state": "与林川组了小组作业、加了微信，态度礼貌疏离"
+      "state": "对林川有了克制的主动——替打印标注作业、主动坐他对面、递水关心"
     },
     "高博": {
       "abilities_resources": [],
-      "goal": "跟着林川混，把他当亲哥",
+      "goal": "追隔壁班举牌女生，向林川请教",
       "identity": "林川室友，爱吹牛、脸皮厚",
       "knowledge": [
-        "怀疑林川能听见心声，但没实锤；觉得林川观察力惊人"
+        "怀疑林川能听见心声，但没实锤；觉得林川观察力惊人",
+        "看上隔壁班举牌女生"
       ],
-      "location": "校园（回宿舍路上）",
-      "open_threads": [],
+      "location": "食堂",
+      "open_threads": [
+        "追隔壁班女生"
+      ],
       "relationships": [
         "林川=室友，亲哥式信任"
       ],
-      "state": "躲过兼职骗局，对林川佩服感激，视其为亲哥"
+      "state": "看上隔壁班举牌女生，向林川请教追法，得到建议"
     }
   },
   "context": {
@@ -93,23 +108,23 @@
     ],
     "next_chapter_commitments": [],
     "position": {
-      "scene": "宿舍",
-      "story_time": "迎新晚会后第九天（周一）",
+      "scene": "女生宿舍楼下",
+      "story_time": "迎新晚会后第二十七天（周五）",
       "volume": "第一卷·觉醒",
       "volume_start_chapter": 1
     },
     "recent_chapters": [
       {
-        "chapter": 10,
-        "summary": "林川把三件事（读心关不掉、读不到苏念、觉醒非偶然）串起来，意识到读心没那么简单，决定不再被动挨听；定下两个目标：先学会过滤噪音、再弄清苏念为什么读不到。"
+        "chapter": 20,
+        "summary": "林川靠观察记住苏念的习惯（坐靠过道、看小说、两点半来、靠窗角落），周四在图书馆靠细节接住话题、猜中她在找淡绿色书，苏念说「你观察得真细」，关系实质升温。"
       },
       {
-        "chapter": 11,
-        "summary": "林川主动接近苏念，以小组作业为借口组队、加微信，但搭话被礼貌聊死；第一次意识到没了读心，自己连怎么跟人说话都要从头学起，决定从别处拼凑对她的了解。"
+        "chapter": 21,
+        "summary": "苏念对林川态度出现细微变化——主动替他打印标注作业、会搭话等他一起走、图书馆主动坐他对面并递水问累不累；林川确认不靠读心也读到了她一点心意，暧昧起点确立。"
       },
       {
-        "chapter": 12,
-        "summary": "林川用一整天多场景反复试探，确认读心对苏念彻底失效，她是能力唯一盲区，却越读不到越好奇"
+        "chapter": 22,
+        "summary": "林川撞见苏念对读心术话题异样敏感、能察觉被注视，把读不到与她藏着秘密连起来，按下不表决定慢慢看；埋下「读不到=有秘密」的长线钩子（接F002）。"
       }
     ]
   },
@@ -129,8 +144,8 @@
       "planned_resolution_chapter": null,
       "planted_chapter": 6,
       "status": "已埋",
-      "summary": "苏念是林川读心唯一失效对象，多场景多角度验证彻底读不到，原因未明",
-      "updated_chapter": 12
+      "summary": "苏念读不到心声，且对读心话题异样敏感、能察觉被注视，疑似藏着秘密",
+      "updated_chapter": 22
     },
     "F004": {
       "id": "F004",
@@ -143,9 +158,9 @@
     }
   },
   "imported_through_chapter": 0,
-  "last_committed_chapter": 12,
+  "last_committed_chapter": 22,
   "schema_version": 4,
-  "state_revision": 12,
+  "state_revision": 22,
   "timeline": {
     "E001": {
       "characters": [
@@ -188,6 +203,145 @@
       "reveal_status": "已揭示",
       "story_time": "迎新晚会后第九天（周一）",
       "updated_chapter": 12
+    },
+    "E013": {
+      "characters": [
+        "林川",
+        "苏念"
+      ],
+      "first_recorded_chapter": 13,
+      "id": "E013",
+      "objective_fact": "林川照搬读心社交三步套路接近苏念，第一步读心声就崩，盲聊处处踩不到点，微信发「在吗」未获回音",
+      "reader_knowledge": "没有读心，林川连怎么跟人聊天都要从头学，读心替他省下的试错现在要加倍还",
+      "reveal_chapter": 13,
+      "reveal_status": "已揭示",
+      "story_time": "迎新晚会后第十天（周二）",
+      "updated_chapter": 13
+    },
+    "E014": {
+      "characters": [
+        "林川",
+        "苏念"
+      ],
+      "first_recorded_chapter": 14,
+      "id": "E014",
+      "objective_fact": "林川连日从同学心声里拼凑苏念，只得到高冷/孤僻/清高/怪等刻板印象，与亲眼所见对不上",
+      "reader_knowledge": "别人眼里的苏念都是标签，没人真正靠近过她；林川决定读不到也没关系，靠自己慢慢去懂她",
+      "reveal_chapter": 14,
+      "reveal_status": "已揭示",
+      "story_time": "迎新晚会后第十一天（周三）前后",
+      "updated_chapter": 14
+    },
+    "E015": {
+      "characters": [
+        "林川",
+        "苏念"
+      ],
+      "first_recorded_chapter": 15,
+      "id": "E015",
+      "objective_fact": "林川连日上课食堂路上不自觉地寻找苏念身影，深夜翻备忘录与偷拍背影，承认自己在意她，删掉偷拍照",
+      "reader_knowledge": "林川对苏念的心意已从好奇滑向在意，他决定不再偷偷摸摸、正面去认识她",
+      "reveal_chapter": 15,
+      "reveal_status": "已揭示",
+      "story_time": "迎新晚会后第十二天（周四）",
+      "updated_chapter": 15
+    },
+    "E016": {
+      "characters": [
+        "林川",
+        "苏念"
+      ],
+      "first_recorded_chapter": 16,
+      "id": "E016",
+      "objective_fact": "图书馆偶遇，苏念主动找林川对小组作业，两人一同一答自然聊了一个下午，分开时苏念说了「明天见」",
+      "reader_knowledge": "林川第一次不靠读心、认真听苏念说话并成功接住，发现读心给不了的东西得靠一句一句听出来",
+      "reveal_chapter": 16,
+      "reveal_status": "已揭示",
+      "story_time": "迎新晚会后第十三天（周五）",
+      "updated_chapter": 16
+    },
+    "E017": {
+      "characters": [
+        "林川",
+        "苏念"
+      ],
+      "first_recorded_chapter": 17,
+      "id": "E017",
+      "objective_fact": "林川周末排练话题，周一见苏念却接水尬聊、对稿冷场，连连词穷，认清自己过去的会聊天全靠读心兜底",
+      "reader_knowledge": "林川意识到没有读心提示，自己连正常接话都不会，得从头学会好好说话",
+      "reveal_chapter": 17,
+      "reveal_status": "已揭示",
+      "story_time": "迎新晚会后第十六天（周一）",
+      "updated_chapter": 17
+    },
+    "E018": {
+      "characters": [
+        "林川"
+      ],
+      "first_recorded_chapter": 18,
+      "id": "E018",
+      "objective_fact": "林川深夜复盘，想通自己会来事全靠读心偷看答案，承认过度自信与依赖读心两个弱点，清空读心小抄",
+      "reader_knowledge": "林川完成自我认知升级，看清读心是把双刃剑，决心从苏念开始戒掉偷看答案、靠真本事跟人相处",
+      "reveal_chapter": 18,
+      "reveal_status": "已揭示",
+      "story_time": "迎新晚会后第十七天（周二）",
+      "updated_chapter": 18
+    },
+    "E019": {
+      "characters": [
+        "林川",
+        "高博"
+      ],
+      "first_recorded_chapter": 19,
+      "id": "E019",
+      "objective_fact": "林川立下与苏念相处全程不用读心的规矩，转向真实相处",
+      "reader_knowledge": "林川决心不靠读心、靠自己慢慢认识苏念；高博看上隔壁班女生并求教",
+      "reveal_chapter": 19,
+      "reveal_status": "已揭示",
+      "story_time": "迎新晚会后第十八天（周三）",
+      "updated_chapter": 19
+    },
+    "E020": {
+      "characters": [
+        "林川",
+        "苏念"
+      ],
+      "first_recorded_chapter": 20,
+      "id": "E020",
+      "objective_fact": "林川靠观察记住苏念的习惯，在图书馆猜中她在找淡绿色书，苏念说「你观察得真细」",
+      "reader_knowledge": "林川靠自己慢慢认识苏念初见成效，苏念对林川的用心有了感知",
+      "reveal_chapter": 20,
+      "reveal_status": "已揭示",
+      "story_time": "迎新晚会后第十九天（周四）",
+      "updated_chapter": 20
+    },
+    "E021": {
+      "characters": [
+        "林川",
+        "苏念"
+      ],
+      "first_recorded_chapter": 21,
+      "id": "E021",
+      "objective_fact": "苏念主动替林川打印标注作业、图书馆主动坐他对面并递水问累不累",
+      "reader_knowledge": "苏念对林川有了克制的主动，暧昧起点确立",
+      "reveal_chapter": 21,
+      "reveal_status": "已揭示",
+      "story_time": "迎新晚会后第二十六天（周四）",
+      "updated_chapter": 21
+    },
+    "E022": {
+      "characters": [
+        "林川",
+        "苏念"
+      ],
+      "first_recorded_chapter": 22,
+      "id": "E022",
+      "objective_fact": "林川撞见苏念对读心术话题异样敏感、察觉被注视，把读不到与她藏着秘密连起来，按下不表",
+      "reader_knowledge": "苏念身上疑似藏着秘密，读不到她或许不是巧合",
+      "reveal_chapter": 22,
+      "reveal_status": "已揭示",
+      "story_time": "迎新晚会后第二十七天（周五）",
+      "updated_chapter": 22
     }
   },
   "wordcount_records": {
@@ -223,12 +377,92 @@
       "status": "borderline",
       "target": 2500
     },
+    "13": {
+      "actual": 2132,
+      "body_sha256": "616c511d24d132ff2548e285f35abaab80aae9586a767cd308af714ce51bae41",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "borderline",
+      "target": 2500
+    },
+    "14": {
+      "actual": 2137,
+      "body_sha256": "32138c9c8d9fafa869116704964238706f124bc21f5f4664603859b43509e7da",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "borderline",
+      "target": 2500
+    },
+    "15": {
+      "actual": 2148,
+      "body_sha256": "51a16007f76f71afa61adfa8a1e9e55219790793860b00f53e716d70a42f517f",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "borderline",
+      "target": 2500
+    },
+    "16": {
+      "actual": 2134,
+      "body_sha256": "740589c1cfc94f798ee71fe7627a8fd78466e8cf838aabd6b24007ceb0b1787c",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "borderline",
+      "target": 2500
+    },
+    "17": {
+      "actual": 2148,
+      "body_sha256": "dce4b7710b50e9f8f9815904db0837228c94130172d386a06cbde13d2ac95855",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "borderline",
+      "target": 2500
+    },
+    "18": {
+      "actual": 2127,
+      "body_sha256": "d00e4fa4391325b4d15fb27ae901451d6bd7285b4dff60167be64a606466f4ea",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "borderline",
+      "target": 2500
+    },
+    "19": {
+      "actual": 2287,
+      "body_sha256": "04960b10137853bf801f9080a7347e86044a4875c93697d934d1f1824dfb9f19",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "internal_pass",
+      "target": 2500
+    },
     "2": {
       "actual": 2147,
       "body_sha256": "b6abff25265181f1d363d01fc3d221e01a870a4b059e8eed4f7ca209195ce08b",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "borderline",
+      "target": 2500
+    },
+    "20": {
+      "actual": 2226,
+      "body_sha256": "03352d06e247233e179dea30969859396682b08633ec0cf029d39efa4993fc58",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "internal_pass",
+      "target": 2500
+    },
+    "21": {
+      "actual": 2230,
+      "body_sha256": "de3c53f0db8e24c7577943de501809a3efb80a6049966e863e1328de8794dbec",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "internal_pass",
+      "target": 2500
+    },
+    "22": {
+      "actual": 2341,
+      "body_sha256": "e22e8f421946d2abf402c1a45121d0d57acc140ac8ec6326fc20fd8bab823f80",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "internal_pass",
       "target": 2500
     },
     "3": {
