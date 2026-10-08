@@ -25,13 +25,14 @@
         "能听见心声，会用「观察」当借口糊弄过去",
         "耳机挡不住心里话，心声不经过耳朵直接进脑子",
         "读心强度与情绪/专注度相关：越紧张越清晰、越放松越模糊",
-        "读心对苏念无效，她是唯一盲区",
+        "读心对苏念彻底无效（远近/多场景/多角度都验证过），她是唯一盲区",
         "读心能用在帮人上，关键时刻能护住身边的人",
         "读心能设局抓破绽、找真相（进阶用法）",
         "觉醒那晚的异样声音不属于现场任何人，觉醒可能并非偶然",
-        "三件事（关不掉/读不到苏念/觉醒非偶然）都指向读心没那么简单"
+        "三件事（关不掉/读不到苏念/觉醒非偶然）都指向读心没那么简单",
+        "没有心声可参考时，投其所好失效，自己连聊天都不会"
       ],
-      "location": "学生宿舍（窗前）",
+      "location": "宿舍",
       "open_threads": [
         "读心能力来源未明（为何觉醒、为何是自己）",
         "那晚异样声音「果然来了」来源未解",
@@ -39,9 +40,9 @@
       ],
       "relationships": [
         "高博=室友，视林川为亲哥，欠人情",
-        "苏念=同班同学，唯一读不到的人，产生好奇"
+        "苏念=同班同学，小组作业搭档，已加微信，读不到且难接近"
       ],
-      "state": "梳理三件事定下两个目标，从被动挨听转为主动掌控"
+      "state": "系统验证读心对苏念彻底失效，确认她是唯一盲区，越发好奇想弄懂她"
     },
     "苏念": {
       "abilities_resources": [
@@ -57,9 +58,9 @@
         "读不到她心声的原因（长线钩子）"
       ],
       "relationships": [
-        "林川=同班同学，彼此几乎不认识"
+        "林川=同班同学，小组作业搭档，已加微信"
       ],
-      "state": "课堂安静看书，与林川短暂对视后离开，未察觉自己读不到"
+      "state": "与林川组了小组作业、加了微信，态度礼貌疏离"
     },
     "高博": {
       "abilities_resources": [],
@@ -90,27 +91,25 @@
       "读心能力不暴露给公众与无关机构",
       "轻松基调，不写沉重血腥死亡阴影"
     ],
-    "next_chapter_commitments": [
-      "下一单元（L1-02）林川将主动接近苏念、尝试读懂她"
-    ],
+    "next_chapter_commitments": [],
     "position": {
-      "scene": "学生宿舍",
-      "story_time": "迎新晚会后第七天（上午）",
+      "scene": "宿舍",
+      "story_time": "迎新晚会后第九天（周一）",
       "volume": "第一卷·觉醒",
       "volume_start_chapter": 1
     },
     "recent_chapters": [
       {
-        "chapter": 8,
-        "summary": "林川被孙磊诬陷偷耳机，用读心听见真相后设局连环追问、以监控诈出真凶，当众澄清；班里名声立起（不好惹、靠谱），并开始不安于能力来源。"
-      },
-      {
-        "chapter": 9,
-        "summary": "林川深夜复盘觉醒那晚，确认那句异样声音「果然，来了」不是幻觉、不属于现场任何人；第一次对觉醒本身起疑，怀疑觉醒并非偶然。"
-      },
-      {
         "chapter": 10,
         "summary": "林川把三件事（读心关不掉、读不到苏念、觉醒非偶然）串起来，意识到读心没那么简单，决定不再被动挨听；定下两个目标：先学会过滤噪音、再弄清苏念为什么读不到。"
+      },
+      {
+        "chapter": 11,
+        "summary": "林川主动接近苏念，以小组作业为借口组队、加微信，但搭话被礼貌聊死；第一次意识到没了读心，自己连怎么跟人说话都要从头学起，决定从别处拼凑对她的了解。"
+      },
+      {
+        "chapter": 12,
+        "summary": "林川用一整天多场景反复试探，确认读心对苏念彻底失效，她是能力唯一盲区，却越读不到越好奇"
       }
     ]
   },
@@ -130,8 +129,8 @@
       "planned_resolution_chapter": null,
       "planted_chapter": 6,
       "status": "已埋",
-      "summary": "苏念是林川读心的唯一盲区，读不到她的心声（原因未知）",
-      "updated_chapter": 6
+      "summary": "苏念是林川读心唯一失效对象，多场景多角度验证彻底读不到，原因未明",
+      "updated_chapter": 12
     },
     "F004": {
       "id": "F004",
@@ -144,9 +143,9 @@
     }
   },
   "imported_through_chapter": 0,
-  "last_committed_chapter": 10,
+  "last_committed_chapter": 12,
   "schema_version": 4,
-  "state_revision": 10,
+  "state_revision": 12,
   "timeline": {
     "E001": {
       "characters": [
@@ -175,6 +174,20 @@
       "reveal_status": "部分揭示",
       "story_time": "迎新晚会后第四天（大课）",
       "updated_chapter": 6
+    },
+    "E012": {
+      "characters": [
+        "林川",
+        "苏念"
+      ],
+      "first_recorded_chapter": 12,
+      "id": "E012",
+      "objective_fact": "林川在高数课、课间、图书馆、宿舍多场景反复试探，读心对苏念彻底失效",
+      "reader_knowledge": "读心对苏念这个人压根不起作用，她是林川能力唯一盲区，且原因未知",
+      "reveal_chapter": 12,
+      "reveal_status": "已揭示",
+      "story_time": "迎新晚会后第九天（周一）",
+      "updated_chapter": 12
     }
   },
   "wordcount_records": {
@@ -192,6 +205,22 @@
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "internal_pass",
+      "target": 2500
+    },
+    "11": {
+      "actual": 2213,
+      "body_sha256": "fdb302ccc37c37aa700f2c977adb1093f84df6da9708dde3ab15b7e9261dca1d",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "internal_pass",
+      "target": 2500
+    },
+    "12": {
+      "actual": 2144,
+      "body_sha256": "3636ab624f16e917b9f3e8dd667285806f0d75d3bba70221c9ae08b97d89a345",
+      "metric": "visible_chars_v1",
+      "resolution": "within_user_band",
+      "status": "borderline",
       "target": 2500
     },
     "2": {
