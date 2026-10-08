@@ -6,3 +6,6 @@ Thumbs.db
 .DS_Store
 *.tmp
 *~
+
+# 写作临时工作目录（.story/work 提交后自动清空，不入库）
+.story/
