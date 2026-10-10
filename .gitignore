@@ -9,3 +9,6 @@ Thumbs.db
 
 # 写作临时工作目录（.story/work 提交后自动清空，不入库）
 .story/
+
+# 漫剧工程内部状态（工具生成、频繁变动，不入库）
+.short-drama/

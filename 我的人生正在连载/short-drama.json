@@ -1,0 +1,64 @@
+{
+  "created_at": "2026-10-10T03:38:33.848652Z",
+  "creator_authority": {
+    "constraints": [
+      "喜剧6:悬疑4，轻喜剧打底、悬疑收口",
+      "段评=可见+可听（暖色网感字体、有语气声）；原文=无声（冷色衬线体）——两者同框形成视觉签名",
+      "16:9 横屏漫剧；写实向国漫风，写实比例与厚涂光影（以风格化笔触规避恐怖谷）",
+      "不涉血腥色情政治，不大场面/复杂特效",
+      "第一季24集、单集约240秒",
+      "母题=宿命vs改命；第一季揭到第二层（写给另一世界的实录+作者也被写），第三层留白"
+    ],
+    "decisions_artifact": "创作者决策/",
+    "delivery_surface": {
+      "aspect": "16:9",
+      "overlay_regions": [
+        "原文层：冷色衬线体，无声，浮于画面",
+        "段评层：暖色网感字体，带语气声，飘在视线边缘"
+      ],
+      "source_ref": "项目开发/creative-brief.md v1",
+      "status": "accepted"
+    },
+    "production_profile": {
+      "choices": {},
+      "status": "unset"
+    },
+    "rhythm_profile": {
+      "source_ref": "项目开发/creative-brief.md v1 第3节",
+      "status": "accepted",
+      "profile": {
+        "form": "motion_comic",
+        "aspect": "16:9",
+        "first_hook_seconds": 5,
+        "beat_interval_seconds_max": 30,
+        "opposed_reversals_per_episode_min": 1,
+        "end_on_peak": true,
+        "reprise_previous_last_beat": true,
+        "vo_share_max": 0.35,
+        "target_avg_shot_seconds": 3.0,
+        "close_shot_share_min": 0.45,
+        "first_major_payoff_by_episode": 1
+      }
+    },
+    "visual_direction": {
+      "choices": {
+        "look_development": "写实向国漫风；原文=冷蓝衬线（书页感）、段评=暖色网感字体（弹幕感）"
+      },
+      "status": "accepted"
+    }
+  },
+  "format": {
+    "aspect_ratio": "16:9",
+    "episode_count": 24,
+    "pacing": {
+      "seconds_per_action_paragraph": null,
+      "spoken_characters_per_second": null
+    },
+    "prompt_language": "zh",
+    "target_seconds_per_episode": 240.0
+  },
+  "language": "zh-CN",
+  "project_id": "SD-C2933A52E626",
+  "schema_version": "1.0.0-draft",
+  "title": "我的人生，正在连载（漫剧·第一季）"
+}
